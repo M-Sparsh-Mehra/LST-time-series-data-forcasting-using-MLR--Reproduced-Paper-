@@ -19,6 +19,9 @@ I independently implemented and validated the methodology to deepen my understan
 - Reproduce the results presented in the paper.
 - Document challenges and insights gained during reproduction.
 
-- ## 🛠️ Methods  
+## 🛠️ Methods  
 **Multiple Linear Regression**:  
 - Baseline model for LST prediction.
+
+ ## :chart_with_upwards_trend: Data
+ - Data can be accessed on appropriate requests from the original authors (as mentioned in paper). 
