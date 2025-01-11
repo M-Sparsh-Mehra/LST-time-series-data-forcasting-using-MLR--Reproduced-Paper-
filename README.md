@@ -22,6 +22,7 @@ I independently implemented and validated the methodology to deepen my understan
 ## 🛠️ Methods  
 **Multiple Linear Regression**:  
 - Baseline model for LST prediction.
+**RNN (Recurrent Neural Networks)** 
 
  ## :chart_with_upwards_trend: Data
  - Data can be accessed on appropriate requests from the original authors (as mentioned in paper). 
