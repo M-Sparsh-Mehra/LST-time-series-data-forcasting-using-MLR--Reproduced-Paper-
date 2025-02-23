@@ -1,4 +1,4 @@
-# LST-time-series-data-forcasting-using-Multiple Linear Regression--Reproduced-Paper-
+# LST-time-series-data-forcasting-using-RNN and Multiple Linear Regression--Reproduced-Paper-
 This repository contains a reproduction of the study "Duo satellite-based remotely sensed land surface temperature prediction by various methods of machine learning", published in "International Journal of Data Science and Analytics".
 
 Published: 30 September 2023
